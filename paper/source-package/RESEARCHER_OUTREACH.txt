@@ -1,0 +1,17 @@
+Subject: Request for prior-art pointers / critique: Recursive Substrate Co-Design
+
+Hello,
+
+I am an independent researcher exploring a concept I am calling Recursive Substrate Co-Design (RSCD).
+
+The proposal connects several established research directions - recursive AI improvement, AI-driven hardware/software co-design, unconventional computing substrates, automated learning-rule discovery, and native substrate-aware training - into a generational loop:
+
+AI_0 designs substrate S_1 -> AI_1 is trained natively on S_1 -> AI_1 designs S_2 -> AI_2 is trained natively on S_2 -> repeat.
+
+I am not claiming that the individual components are new. The question I am trying to isolate is whether this specific generational composition has already been studied, and whether changing the computational substrate of each successor could change the design space accessible to the next designer.
+
+I have attached / linked a short concept paper. If this resembles prior work you know of, I would be especially grateful for references. Criticism of the framing or experimental proposal is equally welcome.
+
+Thank you for your time,
+David Holbert
+Independent Researcher

@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use or discuss this conceptual proposal, please cite it."
+type: article
+title: "Recursive Substrate Co-Design: A Research Proposal for Successive Machine-Designed Computational Substrates"
+authors:
+  - family-names: Holbert
+    given-names: David
+date-released: 2026-09-30
+version: "0.1"
+abstract: "A conceptual research proposal for generational, substrate-native co-design of successor intelligences. Not experimentally validated."
+license: CC-BY-4.0
+repository-code: "https://github.com/HexMask/recursive-substrate-co-design"
